@@ -1,5 +1,5 @@
 # SafeChads
 
-[SafeChad contract](https://bscscan.com/address/0x76728a19b16df0470969af870b60fdc3f9988724#code)
+[SafeChad contract](https://bscscan.com/address/0xd5c695000121c915abe714911d7bd35c786f6767#code)
 
-[ChadStaking contract (xCHAD)](https://bscscan.com/address/0x292efc11acfb0fd9beb6f70155d7fe2197e424bb#code)
+[ChadStaking contract (xCHAD)](https://bscscan.com/address/0x4660a7d21f24d4ff02a3a824197699d4e77d9531#code)
